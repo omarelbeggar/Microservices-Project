@@ -1,0 +1,10 @@
+ma\fstm\ilisi\client_service\ClientServiceApplication.class
+ma\fstm\ilisi\client_service\dto\ClientDTO.class
+ma\fstm\ilisi\client_service\bo\Client.class
+ma\fstm\ilisi\client_service\bo\Client$ClientBuilder.class
+ma\fstm\ilisi\client_service\service\ClientService.class
+ma\fstm\ilisi\client_service\controller\ClientController.class
+ma\fstm\ilisi\client_service\repository\ClientRepository.class
+ma\fstm\ilisi\client_service\dto\ClientDTO$ClientDTOBuilder.class
+ma\fstm\ilisi\client_service\exception\ClientNotFoundException.class
+ma\fstm\ilisi\client_service\service\IClientService.class
