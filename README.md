@@ -16,6 +16,6 @@ The inter-communication between microservices is assumed using RESTTEMPLATE.
   <li>Open Git Bash.</li>
   <li>Change the current working directory to the location where you want the cloned directory.</li>
   <li>Type git clone, and then paste the URL you copied from repo code.
-  <br><SPAN STYLE="text-decoration:overline">git clone https://github.com/omarelbeggar/Microservices-Project.git</SPAN></li>
-  <li>Open Eclipse and import a new maven project for each microservice</li>
+  <br><span style="color:grey">git clone https://github.com/omarelbeggar/Microservices-Project.git</SPAN></li>
+  <li>Open Eclipse and import a new maven project for each microservice.li>
 </ol>
